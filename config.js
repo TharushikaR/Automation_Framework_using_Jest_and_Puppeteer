@@ -1,0 +1,5 @@
+export const userFname="John"
+export const userLname="David"
+export const userEmail="test123@gmail.com"
+export const serviceType="customer-service"
+export const Message="Test Message using Puppeteer Automation. Test Message using Puppeteer Automation."

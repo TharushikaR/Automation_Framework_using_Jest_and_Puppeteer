@@ -1,0 +1,34 @@
+{
+  "name": "automation_framework_using_jest_and_puppeteer",
+  "version": "1.0.0",
+  "description": "Automation_Framework_using_Jest_and_Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --forceExit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TharushikaR/Automation_Framework_using_Jest_and_Puppeteer.git"
+  },
+  "keywords": [
+    "Puppeteer",
+    "Jest",
+    "Automation"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TharushikaR/Automation_Framework_using_Jest_and_Puppeteer/issues"
+  },
+  "homepage": "https://github.com/TharushikaR/Automation_Framework_using_Jest_and_Puppeteer#readme",
+  "dependencies": {
+    "@babel/core": "^7.24.7",
+    "@babel/preset-env": "^7.24.7",
+    "babel-jest": "^29.7.0",
+    "jest-puppeteer": "^10.0.1",
+    "puppeteer": "^22.12.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

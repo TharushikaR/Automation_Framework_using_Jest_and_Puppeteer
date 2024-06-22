@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1719048767281" clover="3.2.0">
+  <project timestamp="1719048767282" name="All files">
+    <metrics statements="46" coveredstatements="39" conditionals="0" coveredconditionals="0" methods="16" coveredmethods="9" elements="62" coveredelements="48" complexity="0" loc="46" ncloc="46" packages="3" files="6" classes="6"/>
+    <package name="Automation_Framework_using_Jest_and_Puppeteer">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="config.js" path="C:\Tharushi\My Work\Automation_Framework_using_Jest_and_Puppeteer\config.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="Automation_Framework_using_Jest_and_Puppeteer.pages">
+      <metrics statements="38" coveredstatements="32" conditionals="0" coveredconditionals="0" methods="14" coveredmethods="8"/>
+      <file name="BasePage.js" path="C:\Tharushi\My Work\Automation_Framework_using_Jest_and_Puppeteer\pages\BasePage.js">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+      </file>
+      <file name="ContactPage.js" path="C:\Tharushi\My Work\Automation_Framework_using_Jest_and_Puppeteer\pages\ContactPage.js">
+        <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+      </file>
+      <file name="HomePage.js" path="C:\Tharushi\My Work\Automation_Framework_using_Jest_and_Puppeteer\pages\HomePage.js">
+        <metrics statements="11" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="2"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+      </file>
+      <file name="LoginPage.js" path="C:\Tharushi\My Work\Automation_Framework_using_Jest_and_Puppeteer\pages\LoginPage.js">
+        <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="Automation_Framework_using_Jest_and_Puppeteer.pages.components">
+      <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="TopBar.js" path="C:\Tharushi\My Work\Automation_Framework_using_Jest_and_Puppeteer\pages\components\TopBar.js">
+        <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
